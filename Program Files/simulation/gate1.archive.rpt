@@ -1,0 +1,102 @@
+Archive Project report for gate1
+Wed Oct 16 11:44:05 2019
+Quartus Prime Version 18.1.1 Build 646 04/11/2019 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2019  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Wed Oct 16 11:44:05 2019 ;
+; Revision Name          ; gate1                                 ;
+; Top-level Entity Name  ; final                                 ;
+; Family                 ; MAX 10                                ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory /cs/student/ug/2019/amukhame/Desktop/Quartus/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive '/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'gate1.archive.rpt'
+Info (23030): Evaluation of Tcl script /usr/local/Quartus/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 1130 megabytes
+    Info: Processing ended: Wed Oct 16 11:44:05 2019
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++------------------------------------------------------------+
+; Files Archived                                             ;
++------------------------------------------------------------+
+; File Name                                                  ;
++------------------------------------------------------------+
+; /usr/local/Quartus/quartus/linux64/assignment_defaults.qdf ;
+; displaywaveform.vwf                                        ;
+; final.bdf                                                  ;
+; finalwaveform.vwf                                          ;
+; fourbitsmultibdf.bdf                                       ;
+; fourbitwaveform.vwf                                        ;
+; gate1.bdf                                                  ;
+; gate1.qpf                                                  ;
+; gate1.qsf                                                  ;
+; halfAdder.bdf                                              ;
+; multiplexer.bdf                                            ;
+; onesix.bdf                                                 ;
+; onesixwaveform.vwf                                         ;
+; output_files/gate_on_buses.bdf                             ;
+; secondsevenseg.bdf                                         ;
+; sevenseg.bdf                                               ;
+; sevensegwaveform.vwf                                       ;
+; testBus.bdf                                                ;
+; threetwo.bdf                                               ;
+; threetwowaveform.vwf                                       ;
+; truthtable.bdf                                             ;
+; waveform.vwf                                               ;
+; waveform2.vwf                                              ;
+; Waveformmulti2.vwf                                         ;
+; waveformtest.vwf                                           ;
+; waveformtruth.vwf                                          ;
++------------------------------------------------------------+
+
+

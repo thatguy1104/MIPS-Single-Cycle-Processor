@@ -1,0 +1,127 @@
+Quartus Prime Archive log --	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qarlog
+
+Archive:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Date:		Wed Oct 16 11:44:05 2019
+Quartus Prime		18.1.1 Build 646 04/11/2019 SJ Lite Edition
+
+	=========== Files Selected: ===========
+/cs/student/ug/2019/amukhame/Desktop/Quartus/Waveformmulti2.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/displaywaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/final.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/finalwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/fourbitsmultibdf.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/fourbitwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qpf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qsf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/halfAdder.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/multiplexer.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/onesix.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/onesixwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/output_files/gate_on_buses.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/secondsevenseg.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/sevenseg.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/sevensegwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/testBus.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/threetwo.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/threetwowaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/truthtable.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/waveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/waveform2.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/waveformtest.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/waveformtruth.vwf
+/usr/local/Quartus/quartus/linux64/assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 16 11:53:37 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 16 14:59:47 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 16 16:19:36 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Thu Oct 17 09:02:40 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Thu Oct 17 09:30:31 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Thu Oct 17 10:44:14 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon Oct 21 10:04:56 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon Oct 21 14:26:08 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 22 10:51:27 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 22 10:59:28 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 22 11:09:23 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 22 12:40:59 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 22 19:33:51 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 22 20:11:14 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 23 10:10:35 2019
+Source archive file:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1.qar
+Archive was extracted into	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/
+		 - successfully.

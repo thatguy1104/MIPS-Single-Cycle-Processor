@@ -1,0 +1,216 @@
+Restore Archived Project report for gate1
+Fri Jan 17 14:12:12 2020
+Quartus Prime Version 18.1.1 Build 646 04/11/2019 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2019  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Fri Jan 17 14:12:12 2020 ;
+; Revision Name                   ; gate1                                 ;
+; Top-level Entity Name           ; processor2                            ;
+; Family                          ; MAX 10                                ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored '/cs/student/ug/2019/amukhame/Desktop/team47/team47.qar' into the '/cs/student/ug/2019/amukhame/Desktop/team47/team47_restored/' directory
+Info: Generated report 'gate1.restore.rpt'
+Info (23030): Evaluation of Tcl script /cs/sys/software2/Quartus-18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 143 warnings
+    Info: Peak virtual memory: 1123 megabytes
+    Info: Processing ended: Fri Jan 17 14:12:12 2020
+    Info: Elapsed time: 00:00:08
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++---------------------------------------------------+
+; Files Not Restored                                ;
++---------------------------------------------------+
+; File Name                                         ;
++---------------------------------------------------+
+; qar_info.json                                     ;
+; Desktop/gate10/ROM.vhd                            ;
+; Desktop/gate10/Verilog2.v                         ;
+; Desktop/gate10/Waveformmulti2.vwf                 ;
+; Desktop/gate10/actualdflipflop.bdf                ;
+; Desktop/gate10/actualflipflopwaveform.vwf         ;
+; Desktop/gate10/addfour.bdf                        ;
+; Desktop/gate10/addfourwaveform.vwf                ;
+; Desktop/gate10/alu.bdf                            ;
+; Desktop/gate10/aludecoder.bdf                     ;
+; Desktop/gate10/aludecoderlogic.bdf                ;
+; Desktop/gate10/aludecoderlogicwaveform.vwf        ;
+; Desktop/gate10/aludecoderwaveform.vwf             ;
+; Desktop/gate10/aluwaveform.vwf                    ;
+; Desktop/gate10/assignment_defaults.qdf            ;
+; Desktop/gate10/bigmultiwaveform.vwf               ;
+; Desktop/gate10/bitmulti.bdf                       ;
+; Desktop/gate10/clafourwaveform.vwf                ;
+; Desktop/gate10/clalogic.bdf                       ;
+; Desktop/gate10/clawaveform.vwf                    ;
+; Desktop/gate10/clock.bdf                          ;
+; Desktop/gate10/controlunit.bdf                    ;
+; Desktop/gate10/controlunitwaveform.vwf            ;
+; Desktop/gate10/counterlogic.bdf                   ;
+; Desktop/gate10/counterlogicwaveform.vwf           ;
+; Desktop/gate10/counterwaveform.vwf                ;
+; Desktop/gate10/deccounter.bdf                     ;
+; Desktop/gate10/decwaveform.vwf                    ;
+; Desktop/gate10/dflipflop.bdf                      ;
+; Desktop/gate10/dflipflopR.bdf                     ;
+; Desktop/gate10/dflipwaveform.vwf                  ;
+; Desktop/gate10/displaydrivertwo.bdf               ;
+; Desktop/gate10/displaydriverwaveform.vwf          ;
+; Desktop/gate10/displaywaveform.vwf                ;
+; Desktop/gate10/dlaaaatch.bdf                      ;
+; Desktop/gate10/dlaatchwaveform.vwf                ;
+; Desktop/gate10/dmem.v                             ;
+; Desktop/gate10/enabledflipflop.bdf                ;
+; Desktop/gate10/eqcom.bdf                          ;
+; Desktop/gate10/final.bdf                          ;
+; Desktop/gate10/finalfourbitadder.bdf              ;
+; Desktop/gate10/finalwaveform.vwf                  ;
+; Desktop/gate10/fivemulti.bdf                      ;
+; Desktop/gate10/fivewaveform.vwf                   ;
+; Desktop/gate10/fourbitaddersevenseg.bdf           ;
+; Desktop/gate10/fourbitadderwaveform.vwf           ;
+; Desktop/gate10/fourbitand.bdf                     ;
+; Desktop/gate10/fourbitddflipflop.bdf              ;
+; Desktop/gate10/fourbiteqwaveform.vwf              ;
+; Desktop/gate10/fourbitflip.bdf                    ;
+; Desktop/gate10/fourbitflipflopwaveform.vwf        ;
+; Desktop/gate10/fourbitflipwaveform.vwf            ;
+; Desktop/gate10/fourbitor.bdf                      ;
+; Desktop/gate10/fourbitorwaveform.vwf              ;
+; Desktop/gate10/fourbitsmultibdf.bdf               ;
+; Desktop/gate10/fourbitwaveform.vwf                ;
+; Desktop/gate10/fouronemulti.bdf                   ;
+; Desktop/gate10/gate1.bdf                          ;
+; Desktop/gate10/gate1.qpf                          ;
+; Desktop/gate10/gate1.qsf                          ;
+; Desktop/gate10/halfAdder.bdf                      ;
+; Desktop/gate10/invertor.bdf                       ;
+; Desktop/gate10/invertor.vwf                       ;
+; Desktop/gate10/leftpart.bdf                       ;
+; Desktop/gate10/leftpartwaveform.vwf               ;
+; Desktop/gate10/leftshift.bdf                      ;
+; Desktop/gate10/leftshiftwaveform.vwf              ;
+; Desktop/gate10/maindecoder.bdf                    ;
+; Desktop/gate10/maindecoderwaveform.vwf            ;
+; Desktop/gate10/multiplexer.bdf                    ;
+; Desktop/gate10/onebitadder.bdf                    ;
+; Desktop/gate10/onebitwaveform.vwf                 ;
+; Desktop/gate10/onesix.bdf                         ;
+; Desktop/gate10/onesixadder.bdf                    ;
+; Desktop/gate10/onesixadderwaveform.vwf            ;
+; Desktop/gate10/onesixand.bdf                      ;
+; Desktop/gate10/onesixcom.bdf                      ;
+; Desktop/gate10/onesixcomwaveform.vwf              ;
+; Desktop/gate10/onesixflip.bdf                     ;
+; Desktop/gate10/onesixflipwaveform.vwf             ;
+; Desktop/gate10/onesixinvert.bdf                   ;
+; Desktop/gate10/onesixinvertwaveform.vwf           ;
+; Desktop/gate10/onesixor.bdf                       ;
+; Desktop/gate10/onesixorwaveform.vwf               ;
+; Desktop/gate10/onesixwaveform.vwf                 ;
+; Desktop/gate10/output_files/gate_on_buses.bdf     ;
+; Desktop/gate10/output_files/processor3.bdf        ;
+; Desktop/gate10/output_files/processorwaveform.vwf ;
+; Desktop/gate10/processor.bdf                      ;
+; Desktop/gate10/processor2.bdf                     ;
+; Desktop/gate10/processorwaveform.vwf              ;
+; Desktop/gate10/regfile.v                          ;
+; Desktop/gate10/resetflipflopaveform.vwf           ;
+; Desktop/gate10/rightpart.bdf                      ;
+; Desktop/gate10/rrom.bdf                           ;
+; Desktop/gate10/sdflipflop.bdf                     ;
+; Desktop/gate10/secondsevenseg.bdf                 ;
+; Desktop/gate10/sevenseg.bdf                       ;
+; Desktop/gate10/sevensegwaveform.vwf               ;
+; Desktop/gate10/signExtend.bdf                     ;
+; Desktop/gate10/signexwaveform.vwf                 ;
+; Desktop/gate10/source.bdf                         ;
+; Desktop/gate10/source2waveform.vwf                ;
+; Desktop/gate10/sourcethree.bdf                    ;
+; Desktop/gate10/sourcetwo.bdf                      ;
+; Desktop/gate10/sourcewaveform.vwf                 ;
+; Desktop/gate10/square.vhd                         ;
+; Desktop/gate10/srflipflop.bdf                     ;
+; Desktop/gate10/srflipflopwaveform.vwf             ;
+; Desktop/gate10/srlatch.bdf                        ;
+; Desktop/gate10/srlatchwaveform.vwf                ;
+; Desktop/gate10/subtracterwaveform.vwf             ;
+; Desktop/gate10/testBus.bdf                        ;
+; Desktop/gate10/testing.bdf                        ;
+; Desktop/gate10/threemul.bdf                       ;
+; Desktop/gate10/threemultiwaveform.vwf             ;
+; Desktop/gate10/threetwo.bdf                       ;
+; Desktop/gate10/threetwoadderaveform.vwf           ;
+; Desktop/gate10/threetwoand.bdf                    ;
+; Desktop/gate10/threetwoandwaveform.vwf            ;
+; Desktop/gate10/threetwobitadder.bdf               ;
+; Desktop/gate10/threetwocom.bdf                    ;
+; Desktop/gate10/threetwocomwaveform.vwf            ;
+; Desktop/gate10/threetwoenabledflip.bdf            ;
+; Desktop/gate10/threetwoflip.bdf                   ;
+; Desktop/gate10/threetwoflipwaveform.vwf           ;
+; Desktop/gate10/threetwoinverter.bdf               ;
+; Desktop/gate10/threetwoinverterwaveform.vwf       ;
+; Desktop/gate10/threetwoor.bdf                     ;
+; Desktop/gate10/threetwosubtracter.bdf             ;
+; Desktop/gate10/threetwowaveform.vwf               ;
+; Desktop/gate10/truthtable.bdf                     ;
+; Desktop/gate10/twentysixleftshift.bdf             ;
+; Desktop/gate10/twobitmulti.bdf                    ;
+; Desktop/gate10/twoonemulti.bdf                    ;
+; Desktop/gate10/waveform.vwf                       ;
+; Desktop/gate10/waveform2.vwf                      ;
+; Desktop/gate10/waveformtest.vwf                   ;
+; Desktop/gate10/waveformtruth.vwf                  ;
+; Desktop/gate10/zeroextend.bdf                     ;
+; Desktop/gate10/zeroextwaveform.vwf                ;
+; Downloads/clockDivider.v                          ;
++---------------------------------------------------+
+
+

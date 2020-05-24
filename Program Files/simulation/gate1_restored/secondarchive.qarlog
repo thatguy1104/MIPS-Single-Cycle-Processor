@@ -1,0 +1,43 @@
+Quartus Prime Archive log --	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/secondarchive.qarlog
+
+Archive:	/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/secondarchive.qar
+Date:		Tue Oct 22 20:10:41 2019
+Quartus Prime		18.1.1 Build 646 04/11/2019 SJ Lite Edition
+
+	=========== Files Selected: ===========
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/Waveformmulti2.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/assignment_defaults.qdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/clafourwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/clalogic.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/clawaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/displaywaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/final.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/finalfourbitadder.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/finalwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/fourbitsmultibdf.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/fourbitwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/gate1.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/gate1.qpf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/gate1.qsf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/halfAdder.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/multiplexer.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/onebitadder.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/onebitwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/onesix.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/onesixwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/output_files/gate_on_buses.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/secondsevenseg.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/sevenseg.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/sevensegwaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/testBus.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/threetwo.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/threetwowaveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/truthtable.bdf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/waveform.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/waveform2.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/waveformtest.vwf
+/cs/student/ug/2019/amukhame/Desktop/Quartus/gate1_restored/waveformtruth.vwf
+	======= Total: 32 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
